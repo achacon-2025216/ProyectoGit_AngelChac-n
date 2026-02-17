@@ -6,3 +6,5 @@ la gestión de proyectos y la colaboración eficiente.
 
 
 Segunda prueba para ser colaborador Espero funcione
+
+aqui estamos hoy 16/02/2026 haciendoo un clone en cmd
